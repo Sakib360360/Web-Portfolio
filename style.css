@@ -69,9 +69,13 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightSalmon, tomato);
     border-image-slice: 1;
+    background-color: white;
 }
 #Learner{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+}
+.footer{
+    text-align: center;
 }
